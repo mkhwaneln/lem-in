@@ -1,0 +1,28 @@
+10
+##start
+qwerty0 0 0
+qwerty1 1 1
+qwerty2 2 2
+##end
+qwerty3 3 3
+qwerty4 4 4
+qwerty5 5 5
+qwerty6 6 6
+qwerty7 7 7
+qwerty8 8 8
+qwerty9 9 9
+qwerty10 10 10
+qwerty11 11 11
+qwerty0-qwerty4
+qwerty4-qwerty5
+qwerty5-qwerty6
+qwerty6-qwerty7
+qwerty7-qwerty2
+qwerty0-qwerty1
+qwerty1-qwerty2
+qwerty2-qwerty3
+qwerty1-qwerty8
+qwerty8-qwerty9
+qwerty9-qwerty10
+qwerty10-qwerty11
+qwerty11-qwerty3
